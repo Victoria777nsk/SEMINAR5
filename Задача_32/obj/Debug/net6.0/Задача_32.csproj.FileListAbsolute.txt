@@ -1,0 +1,15 @@
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\obj\Debug\net6.0\Задача_32.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\obj\Debug\net6.0\Задача_32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\obj\Debug\net6.0\Задача_32.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\obj\Debug\net6.0\Задача_32.AssemblyInfo.cs
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\obj\Debug\net6.0\Задача_32.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\bin\Debug\net6.0\Задача_32.exe
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\bin\Debug\net6.0\Задача_32.deps.json
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\bin\Debug\net6.0\Задача_32.runtimeconfig.json
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\bin\Debug\net6.0\Задача_32.dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\bin\Debug\net6.0\Задача_32.pdb
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\obj\Debug\net6.0\Задача_32.dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\obj\Debug\net6.0\refint\Задача_32.dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\obj\Debug\net6.0\Задача_32.pdb
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\obj\Debug\net6.0\Задача_32.genruntimeconfig.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR5\Задача_32\obj\Debug\net6.0\ref\Задача_32.dll
